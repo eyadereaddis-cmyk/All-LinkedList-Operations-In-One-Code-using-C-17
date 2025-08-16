@@ -1,4 +1,5 @@
 # Linked List Playground in Modern C++
+![Linked List Playground Banner](C:\Users\eyu\Downloads\banner.png)
 
 An **interactive C++ demo program** that showcases all the classic linked list data structures:
 
